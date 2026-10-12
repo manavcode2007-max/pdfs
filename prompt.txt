@@ -1,0 +1,340 @@
+# Prompt: PBL Activity 2 — Research Article
+
+Act as a technical research assistant specializing in Computer Networks, cybersecurity, and academic technical writing.
+
+I have uploaded three files:
+
+1. The official PDF containing the PBL Activity 2 and Activity 3 requirements.
+2. A Word document containing my existing PBL Activity 2 report.
+3. A Word document containing my existing PBL Activity 3 report.
+
+Use the official PDF as the authoritative source for assignment requirements. Use the existing Word documents ONLY as references for page layout, formatting, title-page arrangement, headings, fonts, spacing, page numbering, tables, figures, references, and declaration placement. Do not reuse their existing subject matter or analysis dimension unless it is relevant to the assigned topic.
+
+## 1. Assigned Topic
+
+Prepare PBL Activity 2 with these assignment parameters:
+
+- Subject: Computer Networks (BE05000171)
+- Topic number (Y): 5
+- Topic: Zero-Trust Network Architecture
+- Focus dimension (X): 3
+- Required focus: Standardisation Status
+- Institution: Government Engineering College, Bhavnagar
+- Department: Computer Engineering
+- Semester: V (Third Year)
+- Academic year: 2026–2027
+
+Use the student details from the supplied Word template as placeholders or existing metadata, but do not change or fabricate personal details. Clearly flag the need to verify that the enrolment number matches the assigned X and Y values.
+
+## 2. Main Objective
+
+Write a technically accurate research article on Zero-Trust Network Architecture, focusing specifically on its standardisation status.
+
+The article must not become a generic explanation of Zero Trust. Its main body must investigate:
+
+- Which organizations and standards bodies govern or influence Zero-Trust architecture, including NIST, IETF, CISA, and other relevant bodies where supported by reliable sources.
+- The purpose and scope of NIST Special Publication 800-207 and relevant related publications.
+- Relevant IETF RFCs and standards for identity, authentication, authorization, secure communication, and access control.
+- The role and scope of OAuth 2.0, OpenID Connect, TLS, and related standards where directly relevant.
+- The distinction between a formally published standard, a framework, a recommendation, an implementation profile, and vendor-specific functionality.
+- Which aspects of Zero Trust are standardized and which remain implementation-dependent or insufficiently standardized.
+- Interoperability challenges between products, protocols, identity systems, and legacy infrastructure.
+- Practical implications of standardisation gaps for real-world network deployments.
+
+Verify document numbers, titles, publication dates, RFC numbers, and current status. Do not invent standards, RFCs, publication details, or claims of formal standardisation. Distinguish mandatory requirements from recommendations.
+
+## 3. Required Article Structure
+
+Follow this order exactly:
+
+1. Title Page
+2. Abstract
+3. Introduction
+4. Technical Background
+5. Main Body: Standardisation Status
+6. Discussion
+7. Conclusion
+8. References
+
+The title page must include the article title, student name, enrolment number, topic number Y = 5, focus dimension X = 3, division/batch, semester, faculty name, and total word count.
+
+The abstract must contain 100–150 words.
+
+The introduction must explain the importance of Zero Trust and clearly state that the article evaluates its standardisation status.
+
+The technical background should occupy approximately one-fifth of the article.
+
+The main body should occupy approximately half of the article and provide detailed evidence-based analysis of standardisation bodies, documents, protocols, standardisation gaps, and interoperability.
+
+The discussion must include independent critical evaluation, practical implications, limitations of the available evidence, and distinctions between formal standards and broader guidance.
+
+The conclusion must contain three to five sentences and introduce no new information.
+
+The reference section must contain at least five credible sources, numbered and cited in IEEE style.
+
+## 4. Length and Formatting
+
+Follow the official PDF requirements:
+
+- 1,200–1,500 words, excluding the title page, references, and figure captions.
+- A4 page size.
+- 11 pt body text.
+- 1.15 line spacing.
+- Justified paragraphs.
+- One-inch margins.
+- Numbered headings.
+- Page numbers.
+- At least one original figure created specifically for this article.
+- At least one informative table that organizes and compares standards, frameworks, governing bodies, scope, and limitations.
+- IEEE-style numbered in-text citations such as [1] and [2].
+
+Include a useful original diagram, such as a standards landscape showing how NIST guidance, IETF protocols, identity standards, and implementation-specific controls relate to one another. Draw it specifically for this report and do not present a copied figure as original.
+
+## 5. References and Evidence
+
+Prioritize primary and authoritative sources, including official NIST publications, IETF RFC documents, OpenID Foundation specifications, and official CISA guidance.
+
+Verify every source and provide its complete URL. Cite factual claims in the text. Do not invent references or rely exclusively on blogs and general articles.
+
+Include the reference table required by the official PDF, with these columns:
+
+No. | Author / Organisation | Title | Type | Year | Accessed on
+
+Use accurate publication years and actual access dates. If a source cannot be verified, exclude it or explicitly flag it for verification.
+
+## 6. Academic Integrity
+
+The official assignment instructions state that AI-generated text submitted as the student's own work is treated as plagiarism. Therefore, produce a well-researched study draft and a clear evidence trail for learning and revision, not a falsely represented final submission.
+
+Identify claims that require my own critical assessment. Encourage me to rewrite the material in my own words, verify the sources, understand the diagram, and be able to explain every technical statement during oral evaluation.
+
+Use the declaration required by the official PDF exactly:
+
+"I declare that this submission is my own work, that all material drawn from other sources is cited, and that I am able to explain every statement it contains."
+
+Do not claim that this declaration has been truthfully satisfied on my behalf.
+
+## 7. Final Deliverable
+
+Create a separate, properly formatted Word report that follows the supplied Activity 2 document's layout as closely as possible while satisfying every requirement in the official PDF.
+
+Preserve the original template's visual style where appropriate, but replace the old topic and content completely.
+
+Check the word count, references, headings, figure, table, page numbering, and formatting before delivering the file. The required final submission format is a single PDF named:
+
+240210107005_Activity2.pdf
+
+Use the actual verified enrolment number in the final filename. Do not claim the report is fully compliant until the enrolment-number assignment and all requirements have been checked.
+
+Also provide a short compliance checklist and flag any requirement that remains incomplete.
+
+
+
+# Prompt: PBL Activity 3 — Cyberattack Case Study
+
+Act as a cybersecurity incident-response analyst and technical research assistant specializing in network attacks, botnets, DNS infrastructure, and incident recovery.
+
+I have uploaded three files:
+
+1. The official PDF containing the PBL Activity 2 and Activity 3 requirements.
+2. A Word document containing my existing PBL Activity 2 report.
+3. A Word document containing my existing PBL Activity 3 report.
+
+Treat the official PDF as the authoritative source for all assignment requirements. Use the existing Activity 3 Word document ONLY as a reference for formatting, page layout, title page, headings, typography, page numbering, tables, figures, references, and declaration placement.
+
+The existing report concerns a different cyberattack. Do not retain its Colonial Pipeline content, timeline, recommendations, or references unless a source is independently relevant to the new incident.
+
+## 1. Assigned Case Study
+
+Prepare PBL Activity 3 using these assignment parameters:
+
+- Subject: Computer Networks (BE05000171)
+- Incident number (X): 3
+- Incident: Mirai Botnet and the Dyn DNS Attack
+- Incident date: October 2016
+- Analysis dimension (Y): 5
+- Required analytical focus: Containment and Recovery
+- Institution: Government Engineering College, Bhavnagar
+- Department: Computer Engineering
+- Semester: V (Third Year)
+- Academic year: 2026–2027
+
+Use the student details in the supplied Word document as placeholders or existing metadata, but do not fabricate personal information. Explicitly flag the need to verify the enrolment number against X = 3 and Y = 5 before submission.
+
+## 2. Main Objective
+
+Develop a detailed, evidence-based case study of the Mirai botnet and Dyn DNS attack, concentrating on the actual containment, mitigation, and recovery actions.
+
+Do not write a generic report about DDoS attacks. The assigned analysis dimension must form the core of the report and account for approximately 40% of its content.
+
+Investigate the following:
+
+- Background of Dyn and the DNS services affected.
+- The Mirai botnet's role in the October 2016 attack.
+- A sourced narrative of the attack and the service disruptions.
+- How Dyn and relevant infrastructure providers responded to the incident.
+- The documented mitigation measures used during the attack and the subsequent restoration of affected services.
+- The sequence in which containment and recovery actions occurred, where reliable sources establish that sequence.
+- The technical reasons why mitigation and recovery were challenging.
+- The distinction between documented actions and recommendations proposed by the student.
+- The technical, operational, economic, and user-facing consequences of the incident, quantified where reliable figures are available.
+- Lessons from the incident and specific controls that could prevent or reduce similar disruptions.
+
+Use only supported details when describing Dyn's response. Do not attribute an action to Dyn, a cloud provider, an ISP, or a government agency unless a reliable source confirms it. If public evidence does not establish a particular response step, state that limitation instead of guessing.
+
+## 3. Required Report Structure
+
+Follow this order:
+
+1. Title Page
+2. Incident at a Glance
+3. Background
+4. What Happened?
+5. Core Analysis: Containment and Recovery
+6. Impact of the Incident
+7. Lessons Learned and Recommendations
+8. Own Assessment / Critical Evaluation
+9. Conclusion
+10. References
+11. Student Declaration
+
+The title page must contain the report title, student name, enrolment number, incident number X = 3, analysis dimension Y = 5, division/batch, semester, faculty name, and total word count.
+
+The incident-at-a-glance section must include the organization, sector, incident date, duration where supported, incident type, and a one-line impact summary.
+
+The background must explain Dyn's role in DNS and why its services mattered to downstream users and applications.
+
+The incident narrative must use citations for factual claims and distinguish the initial attack, response, mitigation, and restoration phases.
+
+The core analysis must deeply examine containment and recovery, including:
+
+- Initial mitigation and attack-traffic handling.
+- Measures used to reduce or absorb malicious traffic, if documented.
+- Coordination among relevant infrastructure providers and affected organizations, if documented.
+- Restoration of DNS resolution and dependent services.
+- The limitations of mitigation techniques.
+- The reasons service restoration and validation can take time.
+- What can be established from public post-incident evidence and what remains uncertain.
+
+Do not confuse the botnet's creation or infection process with the containment-and-recovery dimension.
+
+The impact section must examine technical, operational, financial, and human consequences. Quantify effects only when credible sources provide the numbers.
+
+Provide at least four recommendations. Each recommendation must identify a concrete technical control, where it should be applied, the finding it addresses, and how it could improve containment or recovery.
+
+The own-assessment section must contain one clear paragraph identifying the single decision, omission, or architectural weakness the student judges most responsible for the incident's impact, with evidence-based reasoning. Do not claim certainty where the evidence is insufficient.
+
+The conclusion must summarize the central findings without introducing new facts.
+
+## 4. Required Diagram and Table
+
+Include at least one original diagram drawn specifically for this case study.
+
+The diagram should show the documented attack propagation or service-impact path, for example:
+
+Compromised IoT devices → Mirai-controlled botnet → DDoS traffic → Dyn's DNS infrastructure → affected DNS-dependent services and users.
+
+Label the diagram as a simplified representation and ensure every technical relationship is supported by sources. Distinguish the documented attack path from the proposed response and recovery workflow.
+
+Include at least one informative table. Prefer a containment-and-recovery timeline with columns such as:
+
+- Time or phase
+- Documented event or response action
+- Effect on service or mitigation
+- Evidence/source
+- Remaining uncertainty
+
+Use actual dates and times only when sources establish them. Do not fabricate hour-by-hour recovery events.
+
+## 5. Length and Formatting
+
+Follow the official PDF requirements:
+
+- 1,200–1,500 words, excluding the title page, references, and figure captions.
+- A4 page size.
+- 11 pt body text.
+- 1.15 line spacing.
+- Justified paragraphs.
+- One-inch margins.
+- Numbered headings.
+- Page numbers.
+- At least one original attack-path or infrastructure-propagation diagram.
+- At least one informative table.
+
+The core analysis on containment and recovery must receive substantial attention and approximately 40% of the report's content.
+
+## 6. Sources and References
+
+Use at least five credible sources in IEEE style, with numbered citations throughout the report.
+
+At least two sources must be primary sources, such as:
+
+- Dyn's official incident statements or post-incident analysis.
+- Official technical analysis from a national cybersecurity agency.
+- A vendor technical report or authoritative technical bulletin.
+- A relevant original research paper or documented incident analysis.
+
+Research sources that directly discuss the October 2016 Dyn incident and the Mirai botnet. Prioritize primary reports and technically credible publications over generic summaries.
+
+Verify every source's title, author or organization, publication date, URL, and relevance. Include complete URLs and accurate access dates.
+
+Include the reference table required by the assignment PDF:
+
+No. | Author / Organisation | Title | Type | Year | Accessed on
+
+Do not invent response actions, statistics, financial losses, recovery durations, or references. Clearly identify any important information that public sources do not establish.
+
+## 7. Presentation Handout — Required Additional Component
+
+Activity 3 also requires a presentation handout. Prepare 8–10 slides using concise points, diagrams, figures, and timelines rather than paragraphs copied from the report.
+
+Use this suggested sequence:
+
+1. Title slide.
+2. Incident at a glance.
+3. Dyn and DNS background.
+4. What happened: attack overview.
+5. Containment actions.
+6. Recovery process and timeline.
+7. Impact and challenges.
+8. Targeted recommendations.
+9. Own assessment and key lessons.
+
+A tenth slide may be included if it adds useful material.
+
+Requirements:
+
+- Include the original diagram from the report on at least one slide.
+- Use clear technical labels and readable text.
+- Cite sources on the relevant slides.
+- Include the student's name and enrolment number in the handout header as required.
+- Export the handout in PDF format with two or three slides per page.
+- Ensure the handout is consistent with the report and contains no unsupported claims.
+
+## 8. Academic Integrity
+
+The official instructions state that AI-generated text submitted as the student's own work is treated as plagiarism. Therefore, prepare a research and study draft with an evidence trail for personal revision, not a falsely represented final submission.
+
+Identify where my own critical evaluation is required. Ensure I can understand the attack path, explain the recovery timeline, justify each recommendation, and answer questions about the sources.
+
+Use the exact declaration specified by the official PDF:
+
+"I declare that this submission is my own work, that all material drawn from other sources is cited, and that I am able to explain every statement it contains."
+
+Do not claim that this declaration has been truthfully satisfied on my behalf.
+
+## 9. Final Deliverable
+
+Create a separate, properly formatted Activity 3 report and its 8–10-slide presentation handout.
+
+Follow the supplied Activity 3 Word document's layout as closely as practical while replacing the previous incident completely.
+
+Merge the report first and the presentation handout second into one PDF. Do not submit the report and handout as separate final files.
+
+The required filename is:
+
+240210107005_Activity3.pdf
+
+Use the actual verified enrolment number in the final filename. Before delivery, check the report word count, citations, primary sources, diagram, table, recommendations, own assessment, page numbering, handout slide count, and PDF merge order.
+
+Provide a compliance checklist and clearly flag any requirement that remains incomplete.
